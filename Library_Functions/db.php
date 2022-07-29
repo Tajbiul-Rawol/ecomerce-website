@@ -4,7 +4,7 @@
  $server = 'localhost';
  $username = 'root';
  $password =  '';
- $database = 'batch366';
+ $database = 'inventoryDb';
 
 
 $connection = new mysqli($server,$username,$password,$database);
